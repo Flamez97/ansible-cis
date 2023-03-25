@@ -1,0 +1,13 @@
+#Terraform
+.terraform/
+
+#Terraform lock file
+.terraform.lock.hcl
+.terraform.tfstate.lock.info
+
+#Terraform state file
+terraform.tfstate
+terraform.tfstate.backup
+
+#Idea Directory
+.idea
